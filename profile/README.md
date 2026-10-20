@@ -17,10 +17,10 @@
 
 | № | Тема | Ссылка на задание |
 |---|------|-------------------|
-| 1 | Git |  |
-| 2 | Testing |  |
-| 3 | Refactoring |  |
-| 4 | Docker |  |
+| 1 | Git | <https://github.com/EngeneeringMindset2026/Tasks/blob/main/101_Git.md> |
+| 2 | Testing | <https://github.com/EngeneeringMindset2026/Tasks/blob/main/101_Git.md> |
+| 3 | Refactoring | <https://github.com/EngeneeringMindset2026/Tasks/blob/main/103_Refactoring.md> |
+| 4 | Docker | <https://github.com/EngeneeringMindset2026/Tasks/blob/main/101_Git.md> |
 
 ---
 
